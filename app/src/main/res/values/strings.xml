@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BackPressed</string>
+    <string name="double_click_to_back">Double Click To Exit</string>
+</resources>
